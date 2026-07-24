@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:white;
+    margin: 30px;
+}
+
+h1 {
+    text-align: center;
+    color:royalPurple;
+}
+
+form {
+    width: 60%;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+input {
+    width: 95%;
+    padding: 10px;
+    margin: 8px 0;
+}
+
+button {
+    background:green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background: rgb(240, 237, 243);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background: white;
+}
+
+table, th, td {
+    border: 1px solid rgb(79, 76, 76);
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background: rgb(170, 144, 222);
+    color: white;
+}
